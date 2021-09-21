@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Aya
+=======
+
+Serge
+
+Ken
+>>>>>>> 9453aeef6df3333076f4c65b6cb0d6ee6f432650
